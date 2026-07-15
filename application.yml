@@ -10,8 +10,8 @@ spring:
 
 # 微信小程序配置
 wx:
-  appid: wxbc4e2ea2027e6b25
-  secret: c885354d9fd9910fa8bae710da9942bd
+  appid: //你的appid
+  secret: //你的secret
 # MyBatis-Plus配置
 mybatis-plus:
   configuration:
